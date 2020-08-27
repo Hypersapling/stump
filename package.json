@@ -1,0 +1,13 @@
+{
+  "name": "stump",
+  "version": "1.0.0",
+  "description": "simple limbo server",
+  "main": "index.js",
+  "repository": "https://github.com/Hypersapling/stump.git",
+  "author": "MoonBarc",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "flying-squid": "^1.3.0"
+  }
+}
